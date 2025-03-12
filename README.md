@@ -1,4 +1,3 @@
-### Lista de tarefas
 [Veja o site](https://ebac-tech-talks-self-mu.vercel.app/)
 
 ### Ferramentas utiliizadas:
